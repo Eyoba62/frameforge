@@ -1,0 +1,6 @@
+{
+  "name": "FrameForge Studio",
+  "description": "API-driven non-linear video editor with YouTube-ready MP4 export, transitions, effects, Gemini TTS narration, Lyria soundtracks, and Google Veo AI video generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
